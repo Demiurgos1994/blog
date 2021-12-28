@@ -27,7 +27,7 @@ Now I am a co-owner of an agency called [ScalersPPC](https://www.scalersppc.com/
 
 I am still learning new things and this blog is all about that.
 
-On my journey, I have learned a lot from people who decided o give their knowledge away for free and I am eternally grateful, so on this blog I am trying to do the same and give back.
+On my journey, I have learned a lot from people who decided to give their knowledge away for free and I am eternally grateful, so on this blog I am trying to do the same and give back.
 I hope you find it useful.
 
 Lastly, I am always open to suggestions and potential collaborations, you can reach me trough email or LinkedIn, both of which are linked in the home page.
