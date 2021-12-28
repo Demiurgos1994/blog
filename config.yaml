@@ -1,9 +1,8 @@
-
-
 baseURL: "https://examplesite.com/"
 title: Slow Fetch
 paginate: 5
-theme: PaperMod
+languageCode: en-us
+theme: "hugo-PaperMod"
 
 enableRobotsTXT: true
 buildDrafts: false
